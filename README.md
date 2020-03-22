@@ -1,5 +1,7 @@
 ## 欢迎光临我的博客，java 小白一枚，正在努力成长
 
+欢迎访问 [在线阅读 blog.hetaoboy.com](blog.hetaoboy.com)
+
 ## 博客目录
 
 ### 深入理解 JVM
