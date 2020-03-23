@@ -1,6 +1,6 @@
 ## 欢迎光临我的博客，java 小白一枚，正在努力成长
 
-欢迎访问 [在线阅读 blog.hetaoboy.com](blog.hetaoboy.com)
+欢迎访问 [在线阅读 blog.hetaoboy.com](https://blog.hetaoboy.com)
 
 ## 博客目录
 
@@ -11,7 +11,7 @@
 
 ### Java 并发
 
-- [管程、信号量、读写锁、StampedLock](.\Java 并发\管程、信号量、读写锁、StampedLock.md)
+- [管程、信号量、读写锁、StampedLock](./Java 并发/管程、信号量、读写锁、StampedLock.md)
 
 ### 统计学习
 
