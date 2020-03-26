@@ -21,3 +21,7 @@
 ### Python
 
 - [浅拷贝与深拷贝](./Python/Python 的浅拷贝与深拷贝.md)
+
+### leetcode
+
+- [42. 接雨水](./leetcode/42. 接雨水.md)
